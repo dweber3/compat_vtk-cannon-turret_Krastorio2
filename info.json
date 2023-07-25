@@ -1,6 +1,6 @@
 {
   "name": "compat_vtk-cannon-turret_Krastorio2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "title": "Compat Cannon Turret / Krastorio2",
   "author": "Rabidchaos",
   "factorio_version": "1.1",
@@ -8,5 +8,6 @@
     "Krastorio2",
     "vtk-cannon-turret"
   ],
+  "homepage": "https://github.com/dweber3/compat_vtk-cannon-turret_Krastorio2",
   "description": "Makes the Cannon Turret magazines match the range of Krastorio2's Cannon Ammo"
 }
